@@ -79,15 +79,20 @@ I'm a SQL Server professional passionate about database administration, query op
 
 # 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect" />
-  </a>
-  &nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email Contact" />
-  </a>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td style="border: none;">
+      <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+      </a>
+    </td>
+    <td style="border: none;">
+      <a href="mailto:your.email@example.com">
+        <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
