@@ -46,22 +46,12 @@ I'm a SQL Server professional passionate about database administration, query op
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=TruptiSabale&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TruptiSabale&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChiFrontEnd&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiFrontEnd&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 
   <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruptiSabale&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=TruptiSabale&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiFrontEnd&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 
 </div>
 
@@ -72,7 +62,6 @@ I'm a SQL Server professional passionate about database administration, query op
 - Advanced SQL Server Administration
 - Query Performance Tuning
 - Database Monitoring & Maintenance
-- Node.js Backend Development
 - System Design Fundamentals
 
 ---
