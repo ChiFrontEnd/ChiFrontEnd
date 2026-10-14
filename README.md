@@ -45,13 +45,12 @@ I'm a SQL Server professional passionate about database administration, query op
 # 📊 GitHub Statistics
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ChiFrontEnd&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChiFrontEnd&rank_icon=github&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiFrontEnd&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 
-  <br /><br />
+  <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiFrontEnd&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiFrontEnd&layout=donut&theme=tokyonight&hide_border=true" width="37%" alt="Top Languages" />
 
 </div>
 
