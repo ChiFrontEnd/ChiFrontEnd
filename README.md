@@ -57,7 +57,7 @@ SELECT * FROM @DBA;
 </td>
 <td width="42%" align="center">
 
-<img src="Images/AboutMe3.gif" width="300" alt="Coding animation"/>
+<img src="Images/AboutMe3.jpeg" width="500" height="470" alt="Coding animation"/>
 
 </td>
 </tr>
