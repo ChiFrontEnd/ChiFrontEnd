@@ -54,11 +54,14 @@ SELECT * FROM @DBA;
 🚀 Focused on building efficient, reliable systems
 ```
 
-</td> <td width="42%" align="center">
+</td>
+<td width="42%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer coding animation"/>
+<img src="Images/AboutMe3.gif" width="300" alt="Coding animation"/>
 
-</td> </tr> </table>
+</td>
+</tr>
+</table>
 
 ---
 
