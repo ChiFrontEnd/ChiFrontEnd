@@ -18,17 +18,12 @@
 
 I'm a SQL Server professional passionate about database administration, query optimization, and building reliable data-driven solutions.
 
-- 💾 **SQL Server Database Administration**
-- ⚡ **Query Performance Tuning**
-- 📝 **T-SQL Scripts Development**
-- 🏗️ **Database Design & Optimization**
-- 🚀 **Learning Analytical Tools (PowerBI)**
-
 ---
 
 <table> <tr> <td width="58%" valign="top">
 
 ```sql
+-- Create table structure
 DECLARE @DBA TABLE (
     Role       VARCHAR(50),
     Location   VARCHAR(30),
@@ -36,6 +31,7 @@ DECLARE @DBA TABLE (
     Goal       VARCHAR(100)
 );
 
+-- Insert Data into table
 INSERT INTO @DBA
 VALUES (
     'SQL Server DBA',
@@ -44,10 +40,11 @@ VALUES (
     'Automate Tasks'
 );
 
+-- Display table Data
 SELECT * FROM @DBA;
 ```
 
-```output
+```txt
 🗄️ Passionate about databases and SQL Server
 ⚡ Exploring query optimization and performance tuning
 🔄 Learning AlwaysOn AG and database automation
@@ -60,6 +57,7 @@ SELECT * FROM @DBA;
 <img src="https://64.media.tumblr.com/c41035ddb2eb612e53649324fdc1a75d/413a65c8cfce3d3f-b0/s540x810/e0335ae627eb1b9ebac0a2b913cf10e5649cf7af.gifv" width="450"/>
 
 </td>
+
 </tr>
 </table>
 
