@@ -97,7 +97,7 @@ SELECT * FROM @DBA;
   <img src="https://github-readme-stats.vercel.app/api?username=ChiFrontEnd&rank_icon=github&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
 
   <!-- GitHub Streak Stats (added user_timezone parameter for accurate local date calculations) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiFrontEnd&theme=tokyonight&hide_border=true&user_timezone=Asia/Kolkata" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiFrontEnd&theme=tokyonight&hide_border=true&include_all_commits=true&user_timezone=+05:30" width="48%" alt="GitHub Streak" />
 
   <br />
 
