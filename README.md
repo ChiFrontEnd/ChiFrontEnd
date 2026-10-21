@@ -93,13 +93,20 @@ SELECT * FROM @DBA;
 # 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChiFrontEnd&rank_icon=github&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiFrontEnd&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <!-- GitHub Main Stats (added include_all_commits=true to show total lifetime commits) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ChiFrontEnd&rank_icon=github&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+
+  <!-- GitHub Streak Stats (added user_timezone parameter for accurate local date calculations) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiFrontEnd&theme=tokyonight&hide_border=true&user_timezone=Asia/Kolkata" width="48%" alt="GitHub Streak" />
 
   <br />
 
+  <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiFrontEnd&layout=donut&theme=tokyonight&hide_border=true" width="37%" alt="Top Languages" />
 </div>
+
+<!-- Most Used Languages (Includes Private Repos & All Commits) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiFrontEnd&layout=donut&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="37%" alt="Top Languages" />
 
 ---
 
