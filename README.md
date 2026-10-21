@@ -101,12 +101,10 @@ SELECT * FROM @DBA;
 
   <br />
 
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiFrontEnd&layout=donut&theme=tokyonight&hide_border=true" width="37%" alt="Top Languages" />
-</div>
-
 <!-- Most Used Languages (Includes Private Repos & All Commits) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiFrontEnd&layout=donut&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="37%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiFrontEnd&layout=donut&theme=tokyonight&hide_border=true&include_all_commits=true" width="37%" alt="Top Languages" />
+  
+</div>
 
 ---
 
