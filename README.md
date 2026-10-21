@@ -138,7 +138,7 @@ SELECT * FROM @DBA;
       </a>
     </td>
     <td style="border: none;">
-      <a href="https://discord.gg/CRKJbVM6a" target="_blank">
+      <a href="https://discord.gg" target="_blank">
         <img src="https://img.shields.io/badge/DISCORD-JOIN-1C1D21?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" width="170" height="30" alt="Discord" />
       </a>
     </td>
