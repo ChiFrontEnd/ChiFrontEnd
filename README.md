@@ -96,11 +96,11 @@ SELECT * FROM @DBA;
   <!-- GitHub Main Stats (added include_all_commits=true to show total lifetime commits) -->
 <img
     src="https://github-stats-extended.vercel.app/api?username=ChiFrontEnd&rank_icon=github&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    width="45%"
+    width="47%"
     alt="GitHub Stats"/>
   
   <!-- GitHub Streak Stats (added user_timezone parameter for accurate local date calculations) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiFrontEnd&theme=tokyonight&hide_border=true&include_all_commits=true&user_timezone=+05:30" width="45%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiFrontEnd&theme=tokyonight&hide_border=true&include_all_commits=true&user_timezone=+05:30" width="47%" alt="GitHub Streak" />
 
   <br />
 
