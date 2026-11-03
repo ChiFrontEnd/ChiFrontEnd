@@ -100,7 +100,7 @@ SELECT * FROM @DBA;
     alt="GitHub Stats"/>
   
   <!-- GitHub Streak Stats (added user_timezone parameter for accurate local date calculations) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiFrontEnd&theme=tokyonight&hide_border=true&include_all_commits=true&user_timezone=+05:30" width="47%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiFrontEnd&theme=tokyonight&hide_border=true&user_timezone=+05:30" width="47%" alt="GitHub Streak" />
 
   <br />
 
